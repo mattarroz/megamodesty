@@ -1,4 +1,4 @@
-This is a client-server application to automate and control measurementes
+This is a client-server application to automate and control measurements
 using an Olympus Laser Scanning Microscope (LSM). On the client side, a python
 class is responsible for 
 

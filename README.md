@@ -9,3 +9,6 @@ class is responsible for
 
 Optionally, CellProfiler pipelines (www.cellprofiler.org) can be integrated to
 segment images during the measurement and react accordingly, if desired.
+
+See https://ford.biologie.hu-berlin.de/matze/megamodesty/wikis/home for further
+information.
